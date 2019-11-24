@@ -1,0 +1,6 @@
+.vs/
+.vs/*
+*.suo
+*.ide
+*.dtbcache
+*.lock
